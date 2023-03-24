@@ -9,7 +9,8 @@ And I'm looking for careers/companies that prefers Quality over everything and t
 - JavaScript, TypeScript
  
 ## 🌱 I’m practicing ...
-- Kotlin, NextJS
+- Kotlin, NextJS, ReactJS
+
 
 <!---
 eshwinrio/eshwinrio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
